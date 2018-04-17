@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/browse" android:title="Browse">
+        <menu>
+            <item android:id="@+id/home" android:title="Explore ideas" />
+            <item android:id="@+id/profile_menu" android:title="Profile and collections" />
+            <item android:id="@+id/lists" android:title="My lists" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/other" android:title="Prideas">
+        <menu android:id="@+id/extras">
+            <item android:id="@+id/about" android:title="Developer website" />
+            <item android:id="@+id/store" android:title="Rate and review" />
+        </menu>
+    </item>
+
+    <item android:id="@+id/manage" android:title="Manage">
+        <menu android:id="@+id/settings">
+            <item android:id="@+id/signout" android:title="Signout" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Prideas</string>
+    <string name="defaultTitle">This is the default and perhaps really long title of an idea</string>
+    <string name="defaultDescription">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi congue gravida sagittis. Cras
+        sollicitudin augue id blandit rhoncus. Fusce ipsum diam, malesuada quis cursus nec, euismod
+        non enim. Quisque sed porttitor nunc. Praesent imperdiet accumsan massa ac scelerisque. Nunc
+        porta mi ac euismod dignissim. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. Maecenas ut consequat sapien. Phasellus luctus, felis
+        iaculis hendrerit vestibulum, lectus erat aliquam odio, in bibendum sem ante at arcu. Vivam
+        us a consectetur dui, eget congue augue. Proin porta convallis diam nec viverra. Duis nunc e
+        ros, auctor at dapibus eget, placerat at nisl. Interdum et malesuada fames ac ante ipsum pri
+        mis in faucibus. Donec a mollis risus, at lacinia felis.
+    </string>
+    <string name="add_button">Add button</string>
+    <string name="new_idea">New idea</string>
+    <string name="select_image">Please select an image</string>
+    <string name="view">View idea</string>
+    <string name="review_idea">Review idea</string>
+    <string name="rate_message">What do you think about the idea on the four scales below? Your opinion matters!</string>
+    <string name="edit_idea">Edit idea</string>
+    <string name="search">Search</string>
+
+    <string-array name="idea_types">
+        <item>Application</item>
+        <item>Thought</item>
+        <item>Headache</item>
+    </string-array>
+
+    <string-array name="search_types">
+        <item>All types</item>
+        <item>Application</item>
+        <item>Thought</item>
+        <item>Headache</item>
+    </string-array>
+
+    <!-- Twitter consumer key and secret -->
+    <string name="twitter_consumer_key" translatable="false">***</string>
+    <string name="twitter_consumer_secret" translatable="false">***</string>
+</resources>
